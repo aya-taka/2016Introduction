@@ -1,0 +1,5 @@
+second = int(input())
+h = int(second / 3600)
+m = int((second - (h * 3600)) / 60)
+s = int(second % 60)
+print("%d:%d:%d" % (h, m, s))
