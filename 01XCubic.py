@@ -1,2 +1,2 @@
 x = int(input())
-print(int(x * x * x))
+print("{0}".format(x * x * x))
