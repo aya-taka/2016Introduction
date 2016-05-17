@@ -41,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03Watch.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="03Watch.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03Watch.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -55,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/04Range.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -71,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="06PrintTestCases.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="06PrintTestCases.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/06PrintTestCases.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+            <state relative-caret-position="85">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -129,15 +129,15 @@
       <list>
         <option value="$PROJECT_DIR$/02" />
         <option value="$PROJECT_DIR$/01.py" />
-        <option value="$PROJECT_DIR$/04Range.py" />
         <option value="$PROJECT_DIR$/05PrintManyHelloWorld.py" />
-        <option value="$PROJECT_DIR$/06PrintTestCases.py" />
         <option value="$PROJECT_DIR$/07HowManyDivisors.py" />
         <option value="$PROJECT_DIR$/08SimpleCalculator.py" />
         <option value="$PROJECT_DIR$/01XCubic.py" />
         <option value="$PROJECT_DIR$/09MinMaxandSum.py" />
         <option value="$PROJECT_DIR$/02Rectangle.py" />
         <option value="$PROJECT_DIR$/03Watch.py" />
+        <option value="$PROJECT_DIR$/04Range.py" />
+        <option value="$PROJECT_DIR$/06PrintTestCases.py" />
       </list>
     </option>
   </component>
@@ -200,24 +200,7 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.03Watch">
-    <configuration default="false" name="08SimpleCalculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="2016Introduction" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08SimpleCalculator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.06PrintTestCases">
     <configuration default="false" name="09MinMaxandSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,6 +265,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2016Introduction" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03Watch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="06PrintTestCases" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016Introduction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06PrintTestCases.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -421,19 +421,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.08SimpleCalculator" />
-      <item index="1" class="java.lang.String" itemvalue="Python.09MinMaxandSum" />
-      <item index="2" class="java.lang.String" itemvalue="Python.01XCubic" />
-      <item index="3" class="java.lang.String" itemvalue="Python.02Rectangle" />
-      <item index="4" class="java.lang.String" itemvalue="Python.03Watch" />
+      <item index="0" class="java.lang.String" itemvalue="Python.09MinMaxandSum" />
+      <item index="1" class="java.lang.String" itemvalue="Python.01XCubic" />
+      <item index="2" class="java.lang.String" itemvalue="Python.02Rectangle" />
+      <item index="3" class="java.lang.String" itemvalue="Python.03Watch" />
+      <item index="4" class="java.lang.String" itemvalue="Python.06PrintTestCases" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.03Watch" />
-        <item index="1" class="java.lang.String" itemvalue="Python.02Rectangle" />
-        <item index="2" class="java.lang.String" itemvalue="Python.01XCubic" />
-        <item index="3" class="java.lang.String" itemvalue="Python.09MinMaxandSum" />
-        <item index="4" class="java.lang.String" itemvalue="Python.08SimpleCalculator" />
+        <item index="0" class="java.lang.String" itemvalue="Python.06PrintTestCases" />
+        <item index="1" class="java.lang.String" itemvalue="Python.03Watch" />
+        <item index="2" class="java.lang.String" itemvalue="Python.02Rectangle" />
+        <item index="3" class="java.lang.String" itemvalue="Python.01XCubic" />
+        <item index="4" class="java.lang.String" itemvalue="Python.09MinMaxandSum" />
       </list>
     </recent_temporary>
   </component>
@@ -506,14 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04Range.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08SimpleCalculator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -526,22 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06PrintTestCases.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05PrintManyHelloWorld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -574,6 +550,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04Range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05PrintManyHelloWorld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06PrintTestCases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding />
         </state>
       </provider>
