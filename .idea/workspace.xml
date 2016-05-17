@@ -61,11 +61,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="05PrintManyHelloWorld.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="05PrintManyHelloWorld.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05PrintManyHelloWorld.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06PrintTestCases.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06PrintTestCases.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -92,6 +102,7 @@
         <option value="$PROJECT_DIR$/03Watch.py" />
         <option value="$PROJECT_DIR$/04Range.py" />
         <option value="$PROJECT_DIR$/05PrintManyHelloWorld.py" />
+        <option value="$PROJECT_DIR$/06PrintTestCases.py" />
       </list>
     </option>
   </component>
@@ -154,24 +165,7 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.05PrintManyHelloWorld">
-    <configuration default="false" name="02" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="2016Introduction" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.06PrintTestCases">
     <configuration default="false" name="02Rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,6 +230,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2016Introduction" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05PrintManyHelloWorld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="06PrintTestCases" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016Introduction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06PrintTestCases.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -375,19 +386,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.02" />
-      <item index="1" class="java.lang.String" itemvalue="Python.02Rectangle" />
-      <item index="2" class="java.lang.String" itemvalue="Python.03Watch" />
-      <item index="3" class="java.lang.String" itemvalue="Python.04Range" />
-      <item index="4" class="java.lang.String" itemvalue="Python.05PrintManyHelloWorld" />
+      <item index="0" class="java.lang.String" itemvalue="Python.02Rectangle" />
+      <item index="1" class="java.lang.String" itemvalue="Python.03Watch" />
+      <item index="2" class="java.lang.String" itemvalue="Python.04Range" />
+      <item index="3" class="java.lang.String" itemvalue="Python.05PrintManyHelloWorld" />
+      <item index="4" class="java.lang.String" itemvalue="Python.06PrintTestCases" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.05PrintManyHelloWorld" />
-        <item index="1" class="java.lang.String" itemvalue="Python.04Range" />
-        <item index="2" class="java.lang.String" itemvalue="Python.03Watch" />
-        <item index="3" class="java.lang.String" itemvalue="Python.02Rectangle" />
-        <item index="4" class="java.lang.String" itemvalue="Python.02" />
+        <item index="0" class="java.lang.String" itemvalue="Python.06PrintTestCases" />
+        <item index="1" class="java.lang.String" itemvalue="Python.05PrintManyHelloWorld" />
+        <item index="2" class="java.lang.String" itemvalue="Python.04Range" />
+        <item index="3" class="java.lang.String" itemvalue="Python.03Watch" />
+        <item index="4" class="java.lang.String" itemvalue="Python.02Rectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -495,7 +506,15 @@
     <entry file="file://$PROJECT_DIR$/05PrintManyHelloWorld.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06PrintTestCases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="10" />
           <folding />
         </state>
       </provider>
