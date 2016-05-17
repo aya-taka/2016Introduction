@@ -71,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="06PrintTestCases.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="06PrintTestCases.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06PrintTestCases.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -81,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="07HowManyDivisors.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="07HowManyDivisors.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/07HowManyDivisors.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state relative-caret-position="51">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -130,7 +130,6 @@
         <option value="$PROJECT_DIR$/02" />
         <option value="$PROJECT_DIR$/01.py" />
         <option value="$PROJECT_DIR$/05PrintManyHelloWorld.py" />
-        <option value="$PROJECT_DIR$/07HowManyDivisors.py" />
         <option value="$PROJECT_DIR$/08SimpleCalculator.py" />
         <option value="$PROJECT_DIR$/01XCubic.py" />
         <option value="$PROJECT_DIR$/09MinMaxandSum.py" />
@@ -138,6 +137,7 @@
         <option value="$PROJECT_DIR$/03Watch.py" />
         <option value="$PROJECT_DIR$/04Range.py" />
         <option value="$PROJECT_DIR$/06PrintTestCases.py" />
+        <option value="$PROJECT_DIR$/07HowManyDivisors.py" />
       </list>
     </option>
   </component>
@@ -146,6 +146,22 @@
     <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -197,7 +213,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.HTML" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="Python.06PrintTestCases">
@@ -514,14 +530,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07HowManyDivisors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01XCubic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -574,6 +582,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07HowManyDivisors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
           <folding />
         </state>
       </provider>
