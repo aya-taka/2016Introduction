@@ -91,7 +91,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="08SimpleCalculator.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="08SimpleCalculator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08SimpleCalculator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -101,11 +101,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="09MinMaxandSum.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="09MinMaxandSum.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/09MinMaxandSum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -131,13 +131,13 @@
         <option value="$PROJECT_DIR$/01.py" />
         <option value="$PROJECT_DIR$/05PrintManyHelloWorld.py" />
         <option value="$PROJECT_DIR$/01XCubic.py" />
-        <option value="$PROJECT_DIR$/09MinMaxandSum.py" />
         <option value="$PROJECT_DIR$/02Rectangle.py" />
         <option value="$PROJECT_DIR$/03Watch.py" />
         <option value="$PROJECT_DIR$/04Range.py" />
         <option value="$PROJECT_DIR$/06PrintTestCases.py" />
         <option value="$PROJECT_DIR$/07HowManyDivisors.py" />
         <option value="$PROJECT_DIR$/08SimpleCalculator.py" />
+        <option value="$PROJECT_DIR$/09MinMaxandSum.py" />
       </list>
     </option>
   </component>
@@ -216,24 +216,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.HTML" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.08SimpleCalculator">
-    <configuration default="false" name="01XCubic" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="2016Introduction" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01XCubic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.09MinMaxandSum">
     <configuration default="false" name="02Rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,6 +281,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2016Introduction" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08SimpleCalculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="09MinMaxandSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016Introduction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09MinMaxandSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -437,19 +437,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.01XCubic" />
-      <item index="1" class="java.lang.String" itemvalue="Python.02Rectangle" />
-      <item index="2" class="java.lang.String" itemvalue="Python.03Watch" />
-      <item index="3" class="java.lang.String" itemvalue="Python.06PrintTestCases" />
-      <item index="4" class="java.lang.String" itemvalue="Python.08SimpleCalculator" />
+      <item index="0" class="java.lang.String" itemvalue="Python.02Rectangle" />
+      <item index="1" class="java.lang.String" itemvalue="Python.03Watch" />
+      <item index="2" class="java.lang.String" itemvalue="Python.06PrintTestCases" />
+      <item index="3" class="java.lang.String" itemvalue="Python.08SimpleCalculator" />
+      <item index="4" class="java.lang.String" itemvalue="Python.09MinMaxandSum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.08SimpleCalculator" />
-        <item index="1" class="java.lang.String" itemvalue="Python.06PrintTestCases" />
-        <item index="2" class="java.lang.String" itemvalue="Python.03Watch" />
-        <item index="3" class="java.lang.String" itemvalue="Python.02Rectangle" />
-        <item index="4" class="java.lang.String" itemvalue="Python.01XCubic" />
+        <item index="0" class="java.lang.String" itemvalue="Python.09MinMaxandSum" />
+        <item index="1" class="java.lang.String" itemvalue="Python.08SimpleCalculator" />
+        <item index="2" class="java.lang.String" itemvalue="Python.06PrintTestCases" />
+        <item index="3" class="java.lang.String" itemvalue="Python.03Watch" />
+        <item index="4" class="java.lang.String" itemvalue="Python.02Rectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -522,22 +522,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01XCubic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09MinMaxandSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02Rectangle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -590,6 +574,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01XCubic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09MinMaxandSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
           <folding />
         </state>
       </provider>
