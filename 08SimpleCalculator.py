@@ -3,10 +3,10 @@ while(1):
     if op == '?':
         break
     elif op == '+':
-        print(int(a) + int(b))
+        print("{0}".format(int(a) + int(b)))
     elif op == '-':
-        print(int(a) - int(b))
+        print("{0}".format(int(a) - int(b)))
     elif op == '*':
-        print(int(a) * int(b))
+        print("{0}".format(int(a) * int(b)))
     elif op == '/':
-        print(int(int(a) / int(b)))
+        print("{0}".format(int(a) / int(b)))
