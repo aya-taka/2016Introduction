@@ -5,9 +5,17 @@ w = input()
 #   文章Tの定義
 t = []
 #   文章Tの取得
-for line in sys.stdin:
-    t.append(line)
-    if line.find("END_OF_TEXT") == -1:
+while 1:
+    temp = input()
+    if temp == "END_OF_TEXT":
         break
-t = t[0].split()
+    t += temp
+#   文字列を結合
+t = "".join(t).split()
 print(t)
+#   文章T内に存在する単語Wのカウントを行う
+count = 0
+for i in range(len(t)):
+    if t[i].find(w) != -1 :
+        count += 1
+print(count)
