@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bac3d3d-9f27-43e9-ba63-64ab113f58d5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/17CountingCharacters.py" afterPath="$PROJECT_DIR$/17CountingCharacters.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="2016Introduction.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,8 +26,18 @@
       <file leaf-file-name="09MinMaxandSum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/09MinMaxandSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="136">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="18Ring.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/18Ring.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -56,18 +66,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="12Howmanyways.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12Howmanyways.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="33" />
-              <folding>
-                <marker date="1463534536432" expanded="true" signature="52:445" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="13Spreadsheet.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/13Spreadsheet.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -76,6 +74,16 @@
               <folding>
                 <marker date="1463538055392" expanded="true" signature="415:488" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06PrintTestCases.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06PrintTestCases.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -100,11 +108,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="17CountingCharacters.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="17CountingCharacters.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/17CountingCharacters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+            <state relative-caret-position="255">
+              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -155,6 +163,7 @@
         <option value="$PROJECT_DIR$/15TogglingCases.py" />
         <option value="$PROJECT_DIR$/16SumofNumbers.py" />
         <option value="$PROJECT_DIR$/17CountingCharacters.py" />
+        <option value="$PROJECT_DIR$/18Ring.py" />
       </list>
     </option>
   </component>
@@ -180,14 +189,14 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -230,7 +239,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
     <property name="settings.editor.splitter.proportion" value="0.25096524" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0/cmd/git.exe" />
   </component>
@@ -475,7 +484,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\tie304737\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -644,14 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06PrintTestCases.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/07HowManyDivisors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -747,18 +748,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09MinMaxandSum.py">
+    <entry file="file://$PROJECT_DIR$/17CountingCharacters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="255">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/17CountingCharacters.py">
+    <entry file="file://$PROJECT_DIR$/06PrintTestCases.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+        <state relative-caret-position="85">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09MinMaxandSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18Ring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
