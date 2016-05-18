@@ -5,8 +5,8 @@ while 1:
         break
     ansCount = 0
     for i in range(1, n):
-        for j in range(1, n):
-            for k in range(1, n):
+        for j in range(i, n):
+            for k in range(j, n):
                 if i + j + k == x:
                     ansCount += 1
                     print("{0} {1} {2}".format(i, j, k))
