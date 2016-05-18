@@ -56,8 +56,18 @@
       <file leaf-file-name="20Shuffle.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/20Shuffle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11FindingMissingCards.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11FindingMissingCards.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -110,16 +120,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="27" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="14MatrixMultiplication.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/14MatrixMultiplication.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -242,24 +242,7 @@
     <property name="settings.editor.splitter.proportion" value="0.25096524" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0/cmd/git.exe" />
   </component>
-  <component name="RunManager" selected="Python.19FindingaWord">
-    <configuration default="false" name="15TogglingCases" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="2016Introduction" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15TogglingCases.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.20Shuffle">
     <configuration default="false" name="16SumofNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,6 +307,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2016Introduction" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19FindingaWord.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="20Shuffle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016Introduction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20Shuffle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -463,19 +463,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.15TogglingCases" />
-      <item index="1" class="java.lang.String" itemvalue="Python.16SumofNumbers" />
-      <item index="2" class="java.lang.String" itemvalue="Python.17CountingCharacters" />
-      <item index="3" class="java.lang.String" itemvalue="Python.18Ring" />
-      <item index="4" class="java.lang.String" itemvalue="Python.19FindingaWord" />
+      <item index="0" class="java.lang.String" itemvalue="Python.16SumofNumbers" />
+      <item index="1" class="java.lang.String" itemvalue="Python.17CountingCharacters" />
+      <item index="2" class="java.lang.String" itemvalue="Python.18Ring" />
+      <item index="3" class="java.lang.String" itemvalue="Python.19FindingaWord" />
+      <item index="4" class="java.lang.String" itemvalue="Python.20Shuffle" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.19FindingaWord" />
-        <item index="1" class="java.lang.String" itemvalue="Python.18Ring" />
-        <item index="2" class="java.lang.String" itemvalue="Python.17CountingCharacters" />
-        <item index="3" class="java.lang.String" itemvalue="Python.16SumofNumbers" />
-        <item index="4" class="java.lang.String" itemvalue="Python.15TogglingCases" />
+        <item index="0" class="java.lang.String" itemvalue="Python.20Shuffle" />
+        <item index="1" class="java.lang.String" itemvalue="Python.19FindingaWord" />
+        <item index="2" class="java.lang.String" itemvalue="Python.18Ring" />
+        <item index="3" class="java.lang.String" itemvalue="Python.17CountingCharacters" />
+        <item index="4" class="java.lang.String" itemvalue="Python.16SumofNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -697,14 +697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11FindingMissingCards.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="55" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/14MatrixMultiplication.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -763,14 +755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/18Ring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/17CountingCharacters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -787,10 +771,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/11FindingMissingCards.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18Ring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/20Shuffle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
