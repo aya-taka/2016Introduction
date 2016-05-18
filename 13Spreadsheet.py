@@ -13,4 +13,11 @@ for i in range(0, r):
 for i in range(0, c + 1):
     for j in range(0, r):
         spreadSheet[r][i] += spreadSheet[j][i]
-print(spreadSheet)
+#   print(spreadSheet)
+for i in range(0, r + 1):
+    for j in range(0, c + 1):
+        print("{0}".format(spreadSheet[i][j]), end="")
+        if j != c:
+            print(" ",end="")
+        else:
+            print("")
