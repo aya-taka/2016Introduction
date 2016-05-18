@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bac3d3d-9f27-43e9-ba63-64ab113f58d5" name="Default" comment="" />
+    <list default="true" id="8bac3d3d-9f27-43e9-ba63-64ab113f58d5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/17CountingCharacters.py" afterPath="$PROJECT_DIR$/17CountingCharacters.py" />
+    </list>
     <ignored path="2016Introduction.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,9 +81,11 @@
       <file leaf-file-name="13Spreadsheet.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/13Spreadsheet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-              <folding />
+            <state relative-caret-position="136">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding>
+                <marker date="1463538055392" expanded="true" signature="415:488" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,8 +93,8 @@
       <file leaf-file-name="15TogglingCases.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/15TogglingCases.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -99,8 +103,8 @@
       <file leaf-file-name="16SumofNumbers.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/16SumofNumbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="51">
+              <caret line="3" column="29" selection-start-line="2" selection-start-column="4" selection-end-line="3" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -109,8 +113,8 @@
       <file leaf-file-name="17CountingCharacters.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/17CountingCharacters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="36" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+            <state relative-caret-position="136">
+              <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -236,27 +240,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.25096524" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0/cmd/git.exe" />
   </component>
-  <component name="RunManager" selected="Python.16SumofNumbers">
-    <configuration default="false" name="12Howmanyways" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="2016Introduction" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12Howmanyways.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.17CountingCharacters">
     <configuration default="false" name="13Spreadsheet" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -321,6 +309,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2016Introduction" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16SumofNumbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="17CountingCharacters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016Introduction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17CountingCharacters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -460,19 +465,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.12Howmanyways" />
-      <item index="1" class="java.lang.String" itemvalue="Python.13Spreadsheet" />
-      <item index="2" class="java.lang.String" itemvalue="Python.14MatrixMultiplication" />
-      <item index="3" class="java.lang.String" itemvalue="Python.15TogglingCases" />
-      <item index="4" class="java.lang.String" itemvalue="Python.16SumofNumbers" />
+      <item index="0" class="java.lang.String" itemvalue="Python.13Spreadsheet" />
+      <item index="1" class="java.lang.String" itemvalue="Python.14MatrixMultiplication" />
+      <item index="2" class="java.lang.String" itemvalue="Python.15TogglingCases" />
+      <item index="3" class="java.lang.String" itemvalue="Python.16SumofNumbers" />
+      <item index="4" class="java.lang.String" itemvalue="Python.17CountingCharacters" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.16SumofNumbers" />
-        <item index="1" class="java.lang.String" itemvalue="Python.15TogglingCases" />
-        <item index="2" class="java.lang.String" itemvalue="Python.14MatrixMultiplication" />
-        <item index="3" class="java.lang.String" itemvalue="Python.13Spreadsheet" />
-        <item index="4" class="java.lang.String" itemvalue="Python.12Howmanyways" />
+        <item index="0" class="java.lang.String" itemvalue="Python.17CountingCharacters" />
+        <item index="1" class="java.lang.String" itemvalue="Python.16SumofNumbers" />
+        <item index="2" class="java.lang.String" itemvalue="Python.15TogglingCases" />
+        <item index="3" class="java.lang.String" itemvalue="Python.14MatrixMultiplication" />
+        <item index="4" class="java.lang.String" itemvalue="Python.13Spreadsheet" />
       </list>
     </recent_temporary>
   </component>
@@ -734,34 +739,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/13Spreadsheet.py">
+    <entry file="file://$PROJECT_DIR$/16SumofNumbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        <state relative-caret-position="51">
+          <caret line="3" column="29" selection-start-line="2" selection-start-column="4" selection-end-line="3" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15TogglingCases.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/16SumofNumbers.py">
+    <entry file="file://$PROJECT_DIR$/13Spreadsheet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding />
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <marker date="1463538055392" expanded="true" signature="415:488" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/17CountingCharacters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+        <state relative-caret-position="136">
+          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
           <folding />
         </state>
       </provider>
