@@ -9,4 +9,5 @@ for line in sys.stdin:
     t.append(line)
     if line.find("END_OF_TEXT") == -1:
         break
+t = t[0].split()
 print(t)
