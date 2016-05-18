@@ -9,13 +9,14 @@ while 1:
     temp = input()
     if temp == "END_OF_TEXT":
         break
-    t += temp
+    t += temp.strip(".")
+    t += " "
 #   文字列を結合
 t = "".join(t).split()
-print(t)
+#   print(t)
 #   文章T内に存在する単語Wのカウントを行う
 count = 0
 for i in range(len(t)):
-    if t[i].find(w) != -1 :
+    if t[i].lower() == w:
         count += 1
 print(count)
