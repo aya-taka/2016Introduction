@@ -3,4 +3,9 @@
 while 1:
     str = list(input())
     str = "".join(str).split()
-    print(str)
+    if str[0] == "print":
+        print(str[0])
+    elif str[0] == "reverse":
+        pass
+    elif str[0] == "replace":
+        pass
