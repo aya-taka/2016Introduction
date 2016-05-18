@@ -33,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="18Ring.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="18Ring.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/18Ring.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -43,15 +43,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="10PrintaFrame.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10PrintaFrame.py">
+      <file leaf-file-name="19FindingaWord.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/19FindingaWord.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="33" />
-              <folding>
-                <marker date="1463531805224" expanded="true" signature="111:317" placeholder="..." />
-                <marker date="1463531805224" expanded="true" signature="172:297" placeholder="..." />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -164,6 +161,7 @@
         <option value="$PROJECT_DIR$/16SumofNumbers.py" />
         <option value="$PROJECT_DIR$/17CountingCharacters.py" />
         <option value="$PROJECT_DIR$/18Ring.py" />
+        <option value="$PROJECT_DIR$/19FindingaWord.py" />
       </list>
     </option>
   </component>
@@ -776,6 +774,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19FindingaWord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
           <folding />
         </state>
       </provider>
