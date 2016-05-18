@@ -2,4 +2,5 @@
 
 while 1:
     str = list(input())
+    str = "".join(str).split()
     print(str)
