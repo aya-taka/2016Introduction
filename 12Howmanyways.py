@@ -9,4 +9,5 @@ while 1:
             for k in range(1, n):
                 if i + j + k == x:
                     ansCount += 1
+                    print("{0} {1} {2}".format(i, j, k))
     print("{0}".format(ansCount))
