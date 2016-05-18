@@ -109,8 +109,8 @@
       <file leaf-file-name="16SumofNumbers.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/16SumofNumbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+            <state relative-caret-position="170">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -238,24 +238,7 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="settings.editor.splitter.proportion" value="0.25096524" />
   </component>
-  <component name="RunManager" selected="Python.15TogglingCases">
-    <configuration default="false" name="11FindingMissingCards" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="2016Introduction" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11FindingMissingCards.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.16SumofNumbers">
     <configuration default="false" name="12Howmanyways" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,6 +303,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2016Introduction" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15TogglingCases.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="16SumofNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016Introduction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16SumofNumbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -459,19 +459,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.11FindingMissingCards" />
-      <item index="1" class="java.lang.String" itemvalue="Python.12Howmanyways" />
-      <item index="2" class="java.lang.String" itemvalue="Python.13Spreadsheet" />
-      <item index="3" class="java.lang.String" itemvalue="Python.14MatrixMultiplication" />
-      <item index="4" class="java.lang.String" itemvalue="Python.15TogglingCases" />
+      <item index="0" class="java.lang.String" itemvalue="Python.12Howmanyways" />
+      <item index="1" class="java.lang.String" itemvalue="Python.13Spreadsheet" />
+      <item index="2" class="java.lang.String" itemvalue="Python.14MatrixMultiplication" />
+      <item index="3" class="java.lang.String" itemvalue="Python.15TogglingCases" />
+      <item index="4" class="java.lang.String" itemvalue="Python.16SumofNumbers" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.15TogglingCases" />
-        <item index="1" class="java.lang.String" itemvalue="Python.14MatrixMultiplication" />
-        <item index="2" class="java.lang.String" itemvalue="Python.13Spreadsheet" />
-        <item index="3" class="java.lang.String" itemvalue="Python.12Howmanyways" />
-        <item index="4" class="java.lang.String" itemvalue="Python.11FindingMissingCards" />
+        <item index="0" class="java.lang.String" itemvalue="Python.16SumofNumbers" />
+        <item index="1" class="java.lang.String" itemvalue="Python.15TogglingCases" />
+        <item index="2" class="java.lang.String" itemvalue="Python.14MatrixMultiplication" />
+        <item index="3" class="java.lang.String" itemvalue="Python.13Spreadsheet" />
+        <item index="4" class="java.lang.String" itemvalue="Python.12Howmanyways" />
       </list>
     </recent_temporary>
   </component>
@@ -751,8 +751,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/16SumofNumbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        <state relative-caret-position="170">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           <folding />
         </state>
       </provider>
