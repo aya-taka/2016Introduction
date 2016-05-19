@@ -6,10 +6,17 @@ dice = [0 for i in range(6)]
 dice = list(input().split())
 #   転がす方向を標準入力から取得
 order = list(input())
-#   S:5->1->2->6,5が1,1が2,,,
 
-#   E:4->1->3->6
-
-#   W:3->1->4->6
-
-#   N:2->1->5->6
+for i in range(0, len(order)):
+    #   S:5->1->2->6,5が1,1が2,,,
+    if order[i] == "S":
+        pass
+    #   E:4->1->3->6
+    elif order[i] == "E":
+        pass
+    #   W:3->1->4->6
+    elif order[i] == "W":
+        pass
+    #   N:2->1->5->6
+    elif order[i] == "N":
+        pass
