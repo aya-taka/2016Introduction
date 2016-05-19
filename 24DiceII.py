@@ -38,10 +38,10 @@ class Dice:
         self.back = temp
         return self
 
-#   ダイスを配列として定義
-dice = [0 for i in range(6)]
-#   ダイスの面を標準入力から取得
-dice = list(input().split())
+#   Diceの生成
+myDice = Dice()
+#   ダイス初期状態の入力
+myDice.top, myDice.front, myDice.right, myDice.left, myDice.back, myDice.bottom = input().split()
 #   質問の数qを標準入力から取得
 q = int(input())
 #   ループによる質問の読み込みと出力
@@ -50,10 +50,3 @@ for i in range(0, q):
     #   質問の読み込み 上面(1) 前面(2)　
     question = list(input())
     question = "".join(question).split()
-    #   変化なし
-    if question[0] == dice[0] and question[1] == dice[1]:
-        print("{0}".format(dice[2]))
-    #
-    elif question[1] != dice[1]:
-        pass
-    print(question)
