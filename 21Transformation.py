@@ -10,9 +10,9 @@ for i in range(0, p):
     orderList[i] = list(input())
     orderList[i] = "".join(orderList[i]).split()
     if orderList[i][0] == "print":
-        print(str[0])
+        print("{0}".format(str[int(orderList[i][1]) - 1:int(orderList[i][2]) - 1]))
     elif orderList[i][0] == "reverse":
         pass
     elif orderList[i][0] == "replace":
         pass
-    print(orderList[i])
+    print(str)
