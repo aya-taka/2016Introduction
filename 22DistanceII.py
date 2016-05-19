@@ -7,4 +7,7 @@ x = "".join(x).split()
 #   ベクトルyを標準入力から取得
 y = list(input())
 y = "".join(y).split()
-print(x)
+#   p=1,2,無限大の時のミンコフスキー距離を格納する配列
+dxy = []
+for i in range(0, n):
+    pass
