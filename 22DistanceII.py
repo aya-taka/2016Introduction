@@ -27,3 +27,6 @@ dxy[3] = math.fabs(int(x[0]) - int(y[0]))
 for i in range(1, n):
     if dxy[3] < math.fabs(int(x[i]) - int(y[i])):
         dxy[3] = math.fabs(int(x[i]) - int(y[i]))
+#   出力
+for i in range(0, 4):
+    print("{0}".format(dxy[i]))
