@@ -11,13 +11,8 @@ for i in range(0, p):
     orderList[i] = list(input())
     orderList[i] = "".join(orderList[i]).split()
     if orderList[i][0] == "print":
-        print("{0}".format(str[int(orderList[i][1]) - 1:int(orderList[i][2])]))
+        print("{0}".format(str[int(orderList[i][1]):int(orderList[i][2]) + 1]))
     elif orderList[i][0] == "reverse":
-        str = str[0:int(orderList[i][1]) - 1] + str[-len(str) + int(orderList[i][2]) - 1:-len(str) + int(orderList[i][1]) - 2:-1] + str[int(orderList[i][2]):len(str)]
+        str = str[0:int(orderList[i][1])] + str[-len(str) + int(orderList[i][2]):-len(str) + int(orderList[i][1]):-1] + str[int(orderList[i][2]):]
     elif orderList[i][0] == "replace":
-        #   置き換え用文字列replace_str
-        replace_str = str[:int(orderList[i][1]) - 1]
-        for j in range(0, int(orderList[i][2])):
-            replace_str += orderList[i][3]
-        replace_str += str[int(orderList[i][2]):]
-        str = replace_str
+        str = str[:int(orderList[i][1])] + orderList[i][3] + str[int(orderList[i][2]) + 1:]
