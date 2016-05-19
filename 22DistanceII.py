@@ -22,5 +22,8 @@ dxy[1] = math.sqrt(dxy[1])
 for i in range(0, n):
     dxy[2] += (math.fabs(int(x[i]) - int(y[i]))) ** 3
 dxy[2] = math.pow(dxy[2], 1.0 / 3.0)
-
-print(dxy[2])
+#   p=無限大
+dxy[3] = math.fabs(int(x[0]) - int(y[0]))
+for i in range(1, n):
+    if dxy[3] < math.fabs(int(x[i]) - int(y[i])):
+        dxy[3] = math.fabs(int(x[i]) - int(y[i]))
