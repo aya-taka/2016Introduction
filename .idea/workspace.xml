@@ -56,8 +56,8 @@
       <file leaf-file-name="22DistanceII.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/22DistanceII.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="31" />
+            <state relative-caret-position="204">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -66,18 +66,8 @@
       <file leaf-file-name="23DiceI.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/23DiceI.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="17CountingCharacters.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17CountingCharacters.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="37" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="37" />
+            <state relative-caret-position="255">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -203,24 +193,7 @@
     <property name="settings.editor.splitter.proportion" value="0.25096524" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0/cmd/git.exe" />
   </component>
-  <component name="RunManager" selected="Python.22DistanceII">
-    <configuration default="false" name="18Ring" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="2016Introduction" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18Ring.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.23DiceI">
     <configuration default="false" name="19FindingaWord" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -285,6 +258,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2016Introduction" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22DistanceII.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="23DiceI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016Introduction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/23DiceI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -424,19 +414,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.18Ring" />
-      <item index="1" class="java.lang.String" itemvalue="Python.19FindingaWord" />
-      <item index="2" class="java.lang.String" itemvalue="Python.20Shuffle" />
-      <item index="3" class="java.lang.String" itemvalue="Python.21Transformation" />
-      <item index="4" class="java.lang.String" itemvalue="Python.22DistanceII" />
+      <item index="0" class="java.lang.String" itemvalue="Python.19FindingaWord" />
+      <item index="1" class="java.lang.String" itemvalue="Python.20Shuffle" />
+      <item index="2" class="java.lang.String" itemvalue="Python.21Transformation" />
+      <item index="3" class="java.lang.String" itemvalue="Python.22DistanceII" />
+      <item index="4" class="java.lang.String" itemvalue="Python.23DiceI" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.22DistanceII" />
-        <item index="1" class="java.lang.String" itemvalue="Python.21Transformation" />
-        <item index="2" class="java.lang.String" itemvalue="Python.20Shuffle" />
-        <item index="3" class="java.lang.String" itemvalue="Python.19FindingaWord" />
-        <item index="4" class="java.lang.String" itemvalue="Python.18Ring" />
+        <item index="0" class="java.lang.String" itemvalue="Python.23DiceI" />
+        <item index="1" class="java.lang.String" itemvalue="Python.22DistanceII" />
+        <item index="2" class="java.lang.String" itemvalue="Python.21Transformation" />
+        <item index="3" class="java.lang.String" itemvalue="Python.20Shuffle" />
+        <item index="4" class="java.lang.String" itemvalue="Python.19FindingaWord" />
       </list>
     </recent_temporary>
   </component>
@@ -707,13 +697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/14MatrixMultiplication.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03Watch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -769,14 +752,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15TogglingCases.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20Shuffle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -809,6 +784,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/22DistanceII.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14MatrixMultiplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15TogglingCases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/17CountingCharacters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -817,18 +816,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/22DistanceII.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/23DiceI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+        <state relative-caret-position="255">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
           <folding />
         </state>
       </provider>
