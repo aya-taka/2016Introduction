@@ -6,3 +6,7 @@ dice = [0 for i in range(6)]
 dice = list(input().split())
 #   質問の数を標準入力から取得
 question_number = input()
+
+#   ループによる質問の読み込みと出力
+for i in range(0, question_number):
+    pass
