@@ -4,9 +4,8 @@
 dice = [0 for i in range(6)]
 #   ダイスの面を標準入力から取得
 dice = list(input().split())
-print(dice)
 #   転がす方向を標準入力から取得
-
+order = list(input())
 #   S:5->1->2->6,5が1,1が2,,,
 
 #   E:4->1->3->6
