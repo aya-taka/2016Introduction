@@ -4,10 +4,12 @@
 str = list(input())
 #   加工命令回数pを標準入力から取得
 p = int(input())
-str = "".join(str).split()
-if str[0] == "print":
-    print(str[0])
-elif str[0] == "reverse":
-    pass
-elif str[0] == "replace":
-    pass
+#   p個の命令を保持する配列の定義
+orderList = [0 for i in range(p)]
+for i in range(0, p):
+    if str[0] == "print":
+        print(str[0])
+    elif str[0] == "reverse":
+        pass
+    elif str[0] == "replace":
+        pass
