@@ -8,8 +8,9 @@ dice = list(input().split())
 q = int(input())
 
 #   ループによる質問の読み込みと出力
+#   出力対象 右側面(3)
 for i in range(0, q):
-    #   質問の読み込み
+    #   質問の読み込み 上面(1) 前面(2)　
     question = list(input())
     question = "".join(question).split()
     print(question)
