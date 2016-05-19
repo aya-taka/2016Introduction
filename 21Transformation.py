@@ -13,6 +13,6 @@ for i in range(0, p):
     if orderList[i][0] == "print":
         print("{0}".format(str[int(orderList[i][1]):int(orderList[i][2]) + 1]))
     elif orderList[i][0] == "reverse":
-        str = str[0:int(orderList[i][1])] + str[-len(str) + int(orderList[i][2]):-len(str) + int(orderList[i][1]):-1] + str[int(orderList[i][2]):]
+        str = str[0:int(orderList[i][1])] + str[-len(str) + int(orderList[i][2]):-len(str) + int(orderList[i][1]) - 1:-1] + str[int(orderList[i][2]) + 1:]
     elif orderList[i][0] == "replace":
         str = str[:int(orderList[i][1])] + orderList[i][3] + str[int(orderList[i][2]) + 1:]
