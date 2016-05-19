@@ -66,7 +66,7 @@
       <file leaf-file-name="23DiceI.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/23DiceI.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
+            <state relative-caret-position="629">
               <caret line="37" column="22" selection-start-line="11" selection-start-column="4" selection-end-line="37" selection-end-column="22" />
               <folding />
             </state>
@@ -76,8 +76,18 @@
       <file leaf-file-name="24DiceII.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/24DiceII.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
+            <state relative-caret-position="-168">
+              <caret line="62" column="15" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13Spreadsheet.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13Spreadsheet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -215,23 +225,6 @@
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0/cmd/git.exe" />
   </component>
   <component name="RunManager" selected="Python.24DiceII">
-    <configuration default="false" name="20Shuffle" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="2016Introduction" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20Shuffle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="21Transformation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,6 +289,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2016Introduction" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24DiceII.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="13Spreadsheet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016Introduction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13Spreadsheet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -435,19 +445,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.20Shuffle" />
-      <item index="1" class="java.lang.String" itemvalue="Python.21Transformation" />
-      <item index="2" class="java.lang.String" itemvalue="Python.22DistanceII" />
-      <item index="3" class="java.lang.String" itemvalue="Python.23DiceI" />
-      <item index="4" class="java.lang.String" itemvalue="Python.24DiceII" />
+      <item index="0" class="java.lang.String" itemvalue="Python.21Transformation" />
+      <item index="1" class="java.lang.String" itemvalue="Python.22DistanceII" />
+      <item index="2" class="java.lang.String" itemvalue="Python.23DiceI" />
+      <item index="3" class="java.lang.String" itemvalue="Python.24DiceII" />
+      <item index="4" class="java.lang.String" itemvalue="Python.13Spreadsheet" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.24DiceII" />
-        <item index="1" class="java.lang.String" itemvalue="Python.23DiceI" />
-        <item index="2" class="java.lang.String" itemvalue="Python.22DistanceII" />
-        <item index="3" class="java.lang.String" itemvalue="Python.21Transformation" />
-        <item index="4" class="java.lang.String" itemvalue="Python.20Shuffle" />
+        <item index="1" class="java.lang.String" itemvalue="Python.13Spreadsheet" />
+        <item index="2" class="java.lang.String" itemvalue="Python.23DiceI" />
+        <item index="3" class="java.lang.String" itemvalue="Python.22DistanceII" />
+        <item index="4" class="java.lang.String" itemvalue="Python.21Transformation" />
       </list>
     </recent_temporary>
   </component>
@@ -819,13 +829,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/13Spreadsheet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/14MatrixMultiplication.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -836,16 +839,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/23DiceI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
+        <state relative-caret-position="629">
           <caret line="37" column="22" selection-start-line="11" selection-start-column="4" selection-end-line="37" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13Spreadsheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/24DiceII.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
+        <state relative-caret-position="-168">
+          <caret line="62" column="15" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="15" />
           <folding />
         </state>
       </provider>
