@@ -51,7 +51,7 @@ class Dice:
         self.left = temp
         return self
     #   2->4->5->3
-    def turnRight(self):
+    def turnLeft(self):
         temp = self.front
         self.front = self.left
         self.left = self.back
@@ -59,8 +59,8 @@ class Dice:
         self.right = temp
         return self
     def equals(self, Dice):
-        if (self.top == Dice.top and self.front == Dice.front and self.bottom == Dice.bottom
-            and self.back == Dice.back and self.right == Dice.right and self.left == Dice.left):
+        if (self.top == Dice.top and self.front == Dice.front and self.bottom == Dice.bottom and
+                    self.back == Dice.back and self.right == Dice.right and self.left == Dice.left):
             return True
         else:
             return False
@@ -72,7 +72,6 @@ Dice2 = Dice()
 Dice1.top, Dice1.front, Dice1.right, Dice1.left, Dice1.back, Dice1.bottom = input().split()
 Dice2.top, Dice2.front, Dice2.right, Dice2.left, Dice2.back, Dice2.bottom = input().split()
 
-#   ループによる質問の読み込みと出力
 #   上面の割り出し　前後方向
 for j in range(0, 3):
     if Dice1.top == Dice2.top:
