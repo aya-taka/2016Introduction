@@ -86,8 +86,8 @@
       <file leaf-file-name="25DiceIII.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/25DiceIII.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+            <state relative-caret-position="578">
+              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -154,8 +154,8 @@
         <option value="$PROJECT_DIR$/21Transformation.py" />
         <option value="$PROJECT_DIR$/22DistanceII.py" />
         <option value="$PROJECT_DIR$/23DiceI.py" />
-        <option value="$PROJECT_DIR$/25DiceIII.py" />
         <option value="$PROJECT_DIR$/24DiceII.py" />
+        <option value="$PROJECT_DIR$/25DiceIII.py" />
       </list>
     </option>
   </component>
@@ -866,8 +866,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/25DiceIII.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+        <state relative-caret-position="578">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
           <folding />
         </state>
       </provider>

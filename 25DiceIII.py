@@ -3,12 +3,12 @@
 #   ダイスの面を定義するクラス
 class Dice:
     def __init__(self):
-        self.top = 1
-        self.front = 2
-        self.right = 3
-        self.left = 4
-        self.back = 5
-        self.bottom = 6
+        self.top = 0
+        self.front = 0
+        self.right = 0
+        self.left = 0
+        self.back = 0
+        self.bottom = 0
     #   2->1->5->6
     def turnSouth(self):
         temp = self.top
@@ -33,7 +33,6 @@ class Dice:
         self.bottom = self.left
         self.left = temp
         return self
-
     #   5->1->2->6
     def turnNorth(self):
         temp = self.top
@@ -73,17 +72,17 @@ Dice1.top, Dice1.front, Dice1.right, Dice1.left, Dice1.back, Dice1.bottom = inpu
 Dice2.top, Dice2.front, Dice2.right, Dice2.left, Dice2.back, Dice2.bottom = input().split()
 
 #   上面の割り出し　前後方向
-for j in range(0, 3):
+for i in range(0, 3):
     if Dice1.top == Dice2.top:
         break
     Dice2.turnNorth()
 #   上面の割り出し　左右方向
-for j in range(0, 3):
+for i in range(0, 3):
     if Dice1.top == Dice2.top:
         break
     Dice2.turnEast()
 #   正面の割り出し　上面を変えずに回転
-for j in range(0, 3):
+for i in range(0, 3):
     if Dice1.front == Dice2.front:
         break
     Dice2.turnRight()
