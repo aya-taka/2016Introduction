@@ -23,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="01XCubic.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="01XCubic.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01XCubic.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -33,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02Rectangle.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="02Rectangle.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02Rectangle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+            <state relative-caret-position="0">
+              <caret line="0" column="37" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -62,7 +62,6 @@
         <option value="$PROJECT_DIR$/02" />
         <option value="$PROJECT_DIR$/01.py" />
         <option value="$PROJECT_DIR$/05PrintManyHelloWorld.py" />
-        <option value="$PROJECT_DIR$/02Rectangle.py" />
         <option value="$PROJECT_DIR$/03Watch.py" />
         <option value="$PROJECT_DIR$/04Range.py" />
         <option value="$PROJECT_DIR$/06PrintTestCases.py" />
@@ -86,6 +85,7 @@
         <option value="$PROJECT_DIR$/24DiceII.py" />
         <option value="$PROJECT_DIR$/25DiceIII.py" />
         <option value="$PROJECT_DIR$/01XCubic.py" />
+        <option value="$PROJECT_DIR$/02Rectangle.py" />
       </list>
     </option>
   </component>
@@ -788,18 +788,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02Rectangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01XCubic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="30" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02Rectangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="37" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
           <folding />
         </state>
       </provider>
