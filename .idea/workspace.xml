@@ -23,61 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="01XCubic.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01XCubic.py">
+      <file leaf-file-name="07HowManyDivisors.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07HowManyDivisors.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="30" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02Rectangle.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02Rectangle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="37" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03Watch.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03Watch.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04Range.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04Range.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="05PrintManyHelloWorld.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05PrintManyHelloWorld.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="06PrintTestCases.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/06PrintTestCases.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+              <caret line="0" column="39" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -101,7 +51,6 @@
       <list>
         <option value="$PROJECT_DIR$/02" />
         <option value="$PROJECT_DIR$/01.py" />
-        <option value="$PROJECT_DIR$/07HowManyDivisors.py" />
         <option value="$PROJECT_DIR$/08SimpleCalculator.py" />
         <option value="$PROJECT_DIR$/09MinMaxandSum.py" />
         <option value="$PROJECT_DIR$/10PrintaFrame.py" />
@@ -126,6 +75,7 @@
         <option value="$PROJECT_DIR$/04Range.py" />
         <option value="$PROJECT_DIR$/05PrintManyHelloWorld.py" />
         <option value="$PROJECT_DIR$/06PrintTestCases.py" />
+        <option value="$PROJECT_DIR$/07HowManyDivisors.py" />
       </list>
     </option>
   </component>
@@ -658,13 +608,6 @@
     <entry file="file://$PROJECT_DIR$/01.py" />
     <entry file="file://$PROJECT_DIR$/02" />
     <entry file="file://$PROJECT_DIR$/01.py" />
-    <entry file="file://$PROJECT_DIR$/07HowManyDivisors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08SimpleCalculator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -844,6 +787,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07HowManyDivisors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="39" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
           <folding />
         </state>
       </provider>
