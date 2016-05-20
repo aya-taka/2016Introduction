@@ -58,7 +58,7 @@ class Dice:
         self.back = self.right
         self.right = temp
         return self
-    def equalityJudge(self, Dice):
+    def equals(self, Dice):
         if (self.top == Dice.top and self.front == Dice.front and self.bottom == Dice.bottom
             and self.back == Dice.back and self.right == Dice.right and self.left == Dice.left):
             return True
@@ -88,7 +88,7 @@ for j in range(0, 3):
     if Dice1.front == Dice2.front:
         break
     Dice2.turnRight()
-if Dice1.equalityJudge(Dice2):
+if Dice1.equals(Dice2):
     print("Yes")
 else:
     print("No")
