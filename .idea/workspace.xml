@@ -33,6 +33,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="20Shuffle.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20Shuffle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="18Ring.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/18Ring.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -43,10 +53,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="25DiceIII.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="25DiceIII.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/25DiceIII.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="799">
               <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
               <folding />
             </state>
@@ -87,7 +97,6 @@
         <option value="$PROJECT_DIR$/17CountingCharacters.py" />
         <option value="$PROJECT_DIR$/18Ring.py" />
         <option value="$PROJECT_DIR$/19FindingaWord.py" />
-        <option value="$PROJECT_DIR$/20Shuffle.py" />
         <option value="$PROJECT_DIR$/21Transformation.py" />
         <option value="$PROJECT_DIR$/22DistanceII.py" />
         <option value="$PROJECT_DIR$/23DiceI.py" />
@@ -107,6 +116,7 @@
         <option value="$PROJECT_DIR$/E01.py" />
         <option value="$PROJECT_DIR$/15TogglingCases.py" />
         <option value="$PROJECT_DIR$/25DiceIII.py" />
+        <option value="$PROJECT_DIR$/20Shuffle.py" />
       </list>
     </option>
   </component>
@@ -758,14 +768,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/19FindingaWord.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/15TogglingCases.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -806,14 +808,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20Shuffle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/21Transformation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -840,8 +834,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/25DiceIII.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="799">
           <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19FindingaWord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20Shuffle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
           <folding />
         </state>
       </provider>
