@@ -1,4 +1,4 @@
-while(1):
+while 1:
     a, op, b = input().split()
     if op == '?':
         break
