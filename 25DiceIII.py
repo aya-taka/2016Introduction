@@ -70,7 +70,7 @@ class Dice:
                         if self.face == another.face:
                             return True
                     another.turnRight()
-                another.turnNorth()
+            another.turnNorth()
         #   上面の割り出し　左右方向
         for i in range(0, 4):
             if self.face[0] == another.face[0]:
