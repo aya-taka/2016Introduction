@@ -63,11 +63,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="05PrintManyHelloWorld.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="05PrintManyHelloWorld.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05PrintManyHelloWorld.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06PrintTestCases.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06PrintTestCases.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -91,7 +101,6 @@
       <list>
         <option value="$PROJECT_DIR$/02" />
         <option value="$PROJECT_DIR$/01.py" />
-        <option value="$PROJECT_DIR$/06PrintTestCases.py" />
         <option value="$PROJECT_DIR$/07HowManyDivisors.py" />
         <option value="$PROJECT_DIR$/08SimpleCalculator.py" />
         <option value="$PROJECT_DIR$/09MinMaxandSum.py" />
@@ -116,6 +125,7 @@
         <option value="$PROJECT_DIR$/03Watch.py" />
         <option value="$PROJECT_DIR$/04Range.py" />
         <option value="$PROJECT_DIR$/05PrintManyHelloWorld.py" />
+        <option value="$PROJECT_DIR$/06PrintTestCases.py" />
       </list>
     </option>
   </component>
@@ -697,13 +707,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06PrintTestCases.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20Shuffle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -833,6 +836,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06PrintTestCases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
           <folding />
         </state>
       </provider>
