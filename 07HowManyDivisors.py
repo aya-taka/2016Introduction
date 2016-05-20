@@ -8,4 +8,4 @@ for i in range(a, b + 1):
     if c % DivideNum == 0:
         DivisorCount += 1
     DivideNum += 1
-print(DivisorCount)
+print("{0}".format(DivisorCount))
