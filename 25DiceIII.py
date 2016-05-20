@@ -58,32 +58,37 @@ class Dice:
         self.back = self.right
         self.right = temp
         return self
+    def equalityJudge(self, Dice):
+        if (self.top == Dice.top and self.front == Dice.front and self.bottom == Dice.bottom
+            and self.back == Dice.back and self.right == Dice.right and self.left == Dice.left):
+            return True
+        else:
+            return False
 
 #   Diceの生成
-myDice = Dice()
+Dice1 = Dice()
+Dice2 = Dice()
 #   ダイス初期状態の入力
-myDice.top, myDice.front, myDice.right, myDice.left, myDice.back, myDice.bottom = input().split()
-#   質問の数qを標準入力から取得
-q = int(input())
+Dice1.top, Dice1.front, Dice1.right, Dice1.left, Dice1.back, Dice1.bottom = input().split()
+Dice2.top, Dice2.front, Dice2.right, Dice2.left, Dice2.back, Dice2.bottom = input().split()
+
 #   ループによる質問の読み込みと出力
-#   出力対象 右側面 ダイステーブル換算(3)
-for i in range(0, q):
-    #   質問の読み込み 上面(1) 前面(2)　
-    question = list(input())
-    question = "".join(question).split()
-    #   上面の割り出し　前後方向
-    for j in range(0, 3):
-        if question[0] == myDice.top:
-            break
-        myDice.turnNorth()
-    #   上面の割り出し　左右方向
-    for j in range(0, 3):
-        if question[0] == myDice.top:
-            break
-        myDice.turnEast()
-    #   正面の割り出し　上面を変えずに回転
-    for j in range(0, 3):
-        if question[1] == myDice.front:
-            break
-        myDice.turnRight()
-    print("{0}".format(myDice.right))
+#   上面の割り出し　前後方向
+for j in range(0, 3):
+    if Dice1.top == Dice2.top:
+        break
+    Dice2.turnNorth()
+#   上面の割り出し　左右方向
+for j in range(0, 3):
+    if Dice1.top == Dice2.top:
+        break
+    Dice2.turnEast()
+#   正面の割り出し　上面を変えずに回転
+for j in range(0, 3):
+    if Dice1.front == Dice2.front:
+        break
+    Dice2.turnRight()
+if Dice1.equalityJudge(Dice2):
+    print("Yes")
+else:
+    print("No")

@@ -86,8 +86,8 @@
       <file leaf-file-name="25DiceIII.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/25DiceIII.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+            <state relative-caret-position="70">
+              <caret line="60" column="21" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -235,24 +235,7 @@
     <property name="settings.editor.splitter.proportion" value="0.25096524" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0/cmd/git.exe" />
   </component>
-  <component name="RunManager" selected="Python.24DiceII">
-    <configuration default="false" name="21Transformation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="2016Introduction" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/21Transformation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.25DiceIII">
     <configuration default="false" name="22DistanceII" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,6 +300,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2016Introduction" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13Spreadsheet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="25DiceIII" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016Introduction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25DiceIII.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -456,19 +456,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.21Transformation" />
-      <item index="1" class="java.lang.String" itemvalue="Python.22DistanceII" />
-      <item index="2" class="java.lang.String" itemvalue="Python.23DiceI" />
-      <item index="3" class="java.lang.String" itemvalue="Python.24DiceII" />
-      <item index="4" class="java.lang.String" itemvalue="Python.13Spreadsheet" />
+      <item index="0" class="java.lang.String" itemvalue="Python.22DistanceII" />
+      <item index="1" class="java.lang.String" itemvalue="Python.23DiceI" />
+      <item index="2" class="java.lang.String" itemvalue="Python.24DiceII" />
+      <item index="3" class="java.lang.String" itemvalue="Python.13Spreadsheet" />
+      <item index="4" class="java.lang.String" itemvalue="Python.25DiceIII" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.24DiceII" />
-        <item index="1" class="java.lang.String" itemvalue="Python.13Spreadsheet" />
-        <item index="2" class="java.lang.String" itemvalue="Python.23DiceI" />
-        <item index="3" class="java.lang.String" itemvalue="Python.22DistanceII" />
-        <item index="4" class="java.lang.String" itemvalue="Python.21Transformation" />
+        <item index="0" class="java.lang.String" itemvalue="Python.25DiceIII" />
+        <item index="1" class="java.lang.String" itemvalue="Python.24DiceII" />
+        <item index="2" class="java.lang.String" itemvalue="Python.13Spreadsheet" />
+        <item index="3" class="java.lang.String" itemvalue="Python.23DiceI" />
+        <item index="4" class="java.lang.String" itemvalue="Python.22DistanceII" />
       </list>
     </recent_temporary>
   </component>
@@ -866,8 +866,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/25DiceIII.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+        <state relative-caret-position="70">
+          <caret line="60" column="21" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="21" />
           <folding />
         </state>
       </provider>
