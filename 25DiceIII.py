@@ -8,7 +8,7 @@ class Dice:
         self.face = nums
 
     #   2->1->5->6
-    def turnSouth(self):
+    def __turnSouth__(self):
         temp = self.face[0]
         self.face[0] = self.face[4]
         self.face[4] = self.face[5]
@@ -17,7 +17,7 @@ class Dice:
         return self
 
     #   4->1->3->6
-    def turnEast(self):
+    def __turnEast__(self):
         temp = self.face[0]
         self.face[0] = self.face[2]
         self.face[2] = self.face[5]
@@ -26,7 +26,7 @@ class Dice:
         return self
 
     #   3->1->4->6
-    def turnWest(self):
+    def __turnWest__(self):
         temp = self.face[0]
         self.face[0] = self.face[3]
         self.face[3] = self.face[5]
@@ -35,7 +35,7 @@ class Dice:
         return self
 
     #   5->1->2->6
-    def turnNorth(self):
+    def __turnNorth__(self):
         temp = self.face[0]
         self.face[0] = self.face[1]
         self.face[1] = self.face[5]
@@ -43,7 +43,7 @@ class Dice:
         self.face[4] = temp
 
     #   2->3->5->4
-    def turnRight(self):
+    def __turnRight__(self):
         temp = self.face[1]
         self.face[1] = self.face[2]
         self.face[2] = self.face[4]
@@ -52,7 +52,7 @@ class Dice:
         return self
 
     #   2->4->5->3
-    def turnLeft(self):
+    def __turnLeft__(self):
         temp = self.face[1]
         self.face[1] = self.face[3]
         self.face[3] = self.face[4]
@@ -69,8 +69,8 @@ class Dice:
                     if self.face[1] == another.face[1]:
                         if self.face == another.face:
                             return True
-                    another.turnRight()
-            another.turnNorth()
+                    another.__turnRight()
+            another.__turnNorth()
         #   上面の割り出し　左右方向
         for i in range(0, 4):
             if self.face[0] == another.face[0]:
@@ -79,8 +79,8 @@ class Dice:
                     if self.face[1] == another.face[1]:
                         if self.face == another.face:
                             return True
-                    another.turnRight()
-            another.turnEast()
+                    another.__turnRight()
+            another.__turnEast()
         return False
 
 #   Diceの生成

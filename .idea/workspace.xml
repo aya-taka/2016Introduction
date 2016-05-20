@@ -46,8 +46,18 @@
       <file leaf-file-name="25DiceIII.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/25DiceIII.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="72" column="31" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="31" />
+            <state relative-caret-position="340">
+              <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="17CountingCharacters.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17CountingCharacters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -176,7 +186,7 @@
     <property name="settings.editor.splitter.proportion" value="0.25096524" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0/cmd/git.exe" />
   </component>
-  <component name="RunManager" selected="Python.16SumofNumbers">
+  <component name="RunManager" selected="Python.17CountingCharacters">
     <configuration default="false" name="01XCubic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,23 +200,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2016Introduction" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01XCubic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="04Range" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="2016Introduction" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04Range.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -258,6 +251,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2016Introduction" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16SumofNumbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="17CountingCharacters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016Introduction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17CountingCharacters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -398,18 +408,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.01XCubic" />
-      <item index="1" class="java.lang.String" itemvalue="Python.04Range" />
-      <item index="2" class="java.lang.String" itemvalue="Python.09MinMaxandSum" />
-      <item index="3" class="java.lang.String" itemvalue="Python.E01" />
-      <item index="4" class="java.lang.String" itemvalue="Python.16SumofNumbers" />
+      <item index="1" class="java.lang.String" itemvalue="Python.09MinMaxandSum" />
+      <item index="2" class="java.lang.String" itemvalue="Python.E01" />
+      <item index="3" class="java.lang.String" itemvalue="Python.16SumofNumbers" />
+      <item index="4" class="java.lang.String" itemvalue="Python.17CountingCharacters" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.16SumofNumbers" />
-        <item index="1" class="java.lang.String" itemvalue="Python.E01" />
-        <item index="2" class="java.lang.String" itemvalue="Python.09MinMaxandSum" />
-        <item index="3" class="java.lang.String" itemvalue="Python.01XCubic" />
-        <item index="4" class="java.lang.String" itemvalue="Python.04Range" />
+        <item index="0" class="java.lang.String" itemvalue="Python.17CountingCharacters" />
+        <item index="1" class="java.lang.String" itemvalue="Python.16SumofNumbers" />
+        <item index="2" class="java.lang.String" itemvalue="Python.E01" />
+        <item index="3" class="java.lang.String" itemvalue="Python.09MinMaxandSum" />
+        <item index="4" class="java.lang.String" itemvalue="Python.01XCubic" />
       </list>
     </recent_temporary>
   </component>
@@ -756,14 +766,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/17CountingCharacters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/15TogglingCases.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -828,10 +830,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/17CountingCharacters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/25DiceIII.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="72" column="31" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="31" />
+        <state relative-caret-position="340">
+          <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
           <folding />
         </state>
       </provider>
