@@ -33,7 +33,6 @@ class Dice:
         self.bottom = self.left
         self.left = temp
         return self
-
     #   5->1->2->6
     def turnNorth(self):
         temp = self.top
