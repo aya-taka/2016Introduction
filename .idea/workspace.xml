@@ -55,11 +55,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="12Howmanyways.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="12Howmanyways.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/12Howmanyways.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <state relative-caret-position="0">
+              <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="16SumofNumbers.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/16SumofNumbers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -127,7 +137,6 @@
         <option value="$PROJECT_DIR$/14MatrixMultiplication.py" />
         <option value="$PROJECT_DIR$/13Spreadsheet.py" />
         <option value="$PROJECT_DIR$/15TogglingCases.py" />
-        <option value="$PROJECT_DIR$/16SumofNumbers.py" />
         <option value="$PROJECT_DIR$/17CountingCharacters.py" />
         <option value="$PROJECT_DIR$/18Ring.py" />
         <option value="$PROJECT_DIR$/19FindingaWord.py" />
@@ -148,6 +157,7 @@
         <option value="$PROJECT_DIR$/09MinMaxandSum.py" />
         <option value="$PROJECT_DIR$/11FindingMissingCards.py" />
         <option value="$PROJECT_DIR$/12Howmanyways.py" />
+        <option value="$PROJECT_DIR$/16SumofNumbers.py" />
       </list>
     </option>
   </component>
@@ -694,13 +704,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/16SumofNumbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20Shuffle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -871,8 +874,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/12Howmanyways.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        <state relative-caret-position="0">
+          <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16SumofNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
           <folding />
         </state>
       </provider>

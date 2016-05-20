@@ -7,7 +7,7 @@ while 1:
         break
     #   print(input_num)
     #   各桁合計を保存する変数
-    digitTotal = 0
+    digit_total = 0
     for i in range(0, len(input_num)):
-        digitTotal += int(input_num[i])
-    print("{0}".format(digitTotal))
+        digit_total += int(input_num[i])
+    print("{0}".format(digit_total))
