@@ -73,21 +73,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="24DiceII.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="24DiceII.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/24DiceII.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="47" column="31" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+            <state relative-caret-position="240">
+              <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="25DiceIII.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="25DiceIII.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/25DiceIII.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+            <state relative-caret-position="240">
+              <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -154,8 +154,8 @@
         <option value="$PROJECT_DIR$/21Transformation.py" />
         <option value="$PROJECT_DIR$/22DistanceII.py" />
         <option value="$PROJECT_DIR$/23DiceI.py" />
-        <option value="$PROJECT_DIR$/24DiceII.py" />
         <option value="$PROJECT_DIR$/25DiceIII.py" />
+        <option value="$PROJECT_DIR$/24DiceII.py" />
       </list>
     </option>
   </component>
@@ -856,18 +856,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/24DiceII.py">
+    <entry file="file://$PROJECT_DIR$/25DiceIII.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="47" column="31" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+        <state relative-caret-position="240">
+          <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/25DiceIII.py">
+    <entry file="file://$PROJECT_DIR$/24DiceII.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+        <state relative-caret-position="240">
+          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
           <folding />
         </state>
       </provider>

@@ -51,7 +51,7 @@ class Dice:
         self.left = temp
         return self
     #   2->4->5->3
-    def turnRight(self):
+    def turnLeft(self):
         temp = self.front
         self.front = self.left
         self.left = self.back
