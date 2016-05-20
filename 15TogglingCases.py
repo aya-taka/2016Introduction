@@ -2,5 +2,5 @@
 #   文字列を標準入力から読み込み
 input_str = input()
 #   大文字を小文字に、小文字を大文字に変換しつつ出力
-print(input_str.swapcase())
+print("{0}".format(input_str.swapcase()))
 
