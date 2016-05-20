@@ -69,8 +69,8 @@ class Dice:
                     if self.face[1] == another.face[1]:
                         if self.face == another.face:
                             return True
-                    another.__turnRight()
-            another.__turnNorth()
+                    another.__turnRight__()
+            another.__turnNorth__()
         #   上面の割り出し　左右方向
         for i in range(0, 4):
             if self.face[0] == another.face[0]:
@@ -79,8 +79,8 @@ class Dice:
                     if self.face[1] == another.face[1]:
                         if self.face == another.face:
                             return True
-                    another.__turnRight()
-            another.__turnEast()
+                    another.__turnRight__()
+            another.__turnEast__()
         return False
 
 #   Diceの生成
