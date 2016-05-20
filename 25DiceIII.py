@@ -53,33 +53,32 @@ class Dice:
         self.face[2] = temp
         return self
     def equals(self, Dice):
-        if self.face == Dice.face:
-            return True
-        else:
-            return False
+        #   上面の割り出し　前後方向
+        for i in range(0, 4):
+            if self.face[0] == Dice.face[0]:
+                #   正面の割り出し　上面を変えずに回転
+                for j in range(0, 4):
+                    if self.face[1] == Dice.face[1]:
+                        if self.face == Dice.face:
+                            return True
+                    Dice.turnRight()
+            Dice.turnNorth()
+        #   上面の割り出し　左右方向
+        for i in range(0, 4):
+            if self.face[0] == Dice.face[0]:
+                #   正面の割り出し　上面を変えずに回転
+                for j in range(0, 4):
+                    if self.face[1] == Dice.face[1]:
+                        if self.face == Dice.face:
+                            return True
+                    Dice.turnRight()
+            Dice.turnEast()
+        return False
 
 #   Diceの生成
 Dice1 = Dice(input().split())
 Dice2 = Dice(input().split())
 
-#   上面の割り出し　前後方向
-for i in range(0, 3):
-    if Dice1.face[0] == Dice2.face[0]:
-        break
-    Dice2.turnNorth()
-#    print("1", Dice2.face)
-#   上面の割り出し　左右方向
-for i in range(0, 3):
-    if Dice1.face[0] == Dice2.face[0]:
-        break
-    Dice2.turnEast()
-#    print("2", Dice2.face)
-#   正面の割り出し　上面を変えずに回転
-for i in range(0, 3):
-    if Dice1.face[1] == Dice2.face[1]:
-        break
-    Dice2.turnRight()
-#    print("3", Dice2.face)
 if Dice1.equals(Dice2):
     print("Yes")
 else:
