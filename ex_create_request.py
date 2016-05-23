@@ -38,14 +38,9 @@ class API:
                 data.append(var["name"])
             return data
         elif self.language == 1:
-            '''
             data = []
-            i = 0
             for var in self.json_dic["rest"]:
-                data[i] = var["name"]
-                i += 1
+                data.append(var["name"]["name"])
             return data
-            '''
-            pass
         else:
             pass

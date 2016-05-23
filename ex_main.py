@@ -19,7 +19,7 @@ word = input("検索キーワードをスペース区切りで入力してくだ
 #   文字種識別
 #   アルファベットかどうかのみ？
 if word.isalpha():
-    request_url = ex_create_request.API(0)
+    request_url = ex_create_request.API(1)
     #   print(1)
 else:
     request_url = ex_create_request.API(0)
