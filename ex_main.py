@@ -10,7 +10,14 @@ import requests
 import ex_accesskey
 #   検索対象文字列の読み込み
 #   フリーワード検索に使用
-word = input(u"検索キーワードをスペース区切りで入力してください：")
+word = input("検索キーワードをスペース区切りで入力してください：")
+#   文字種識別
+#   アルファベットかどうかのみ？
+if word.isalpha():
+    pass
+else:
+    pass
+
 #   リクエストの作成
 #   帰ってくる件数はデフォルト10件
 query = {
