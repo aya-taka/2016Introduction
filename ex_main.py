@@ -10,7 +10,7 @@ import requests
 import ex_accesskey
 #   検索対象文字列の読み込み
 #   フリーワード検索に使用
-word = input().split()
+word = input(u"検索キーワードをスペース区切りで入力してください：")
 #   リクエストの作成
 #   帰ってくる件数はデフォルト10件
 query = {
