@@ -25,6 +25,8 @@ class API:
 
     def get_json(self, query):
         self.json_default = requests.get(self.url, params=query)
+        #   コネクションの確認
+        #   print("{0}".format(self.json_default.status_code))
         #   jsonを辞書型で読み込みなおす
         self.json_dic = json.loads(json.dumps(self.json_default.json(), sort_keys=True, indent=2))
         #   print(self.json_dic)

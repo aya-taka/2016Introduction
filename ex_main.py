@@ -2,6 +2,7 @@
 import sys
 import json
 import requests
+import re
 #   アクセスキーを記述したファイルをインポート
 #   ファイル名：ex_accesskey.py
 #   定義：
@@ -18,7 +19,10 @@ import ex_create_request
 word = input("検索キーワードをスペース区切りで入力してください：")
 #   文字種識別
 #   アルファベットかどうかのみ？
-if word.isalpha():
+regexp = re.compile(r'^[0-9A-Za-z]+$')
+#   print("".join(word.split()))
+result = regexp.search("".join(word.split()))
+if result != None:
     request_url = ex_create_request.API(1)
     #   print(1)
 else:
