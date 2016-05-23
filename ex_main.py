@@ -5,18 +5,23 @@ import requests
 #   アクセスキーを記述したファイルをインポート
 #   ファイル名：ex_accesskey.py
 #   定義：
-#   key:アクセスキー
-#   url:アクセスするURL
+#   key:(文字列)アクセスキー
 import ex_accesskey
+#   リクエストの作成を記述したファイルをインポート
+#   ファイル名：ex_create_request.py
+#   定義
+#   クラス　API
+#   init()  言語を指定し、キーIDとURLを指定
+import ex_create_request
 #   検索対象文字列の読み込み
 #   フリーワード検索に使用
 word = input("検索キーワードをスペース区切りで入力してください：")
 #   文字種識別
 #   アルファベットかどうかのみ？
 if word.isalpha():
-    request_url = ex_accesskey.URL(1)
+    request_url = ex_create_request.API(1)
 else:
-    request_url = ex_accesskey.URL(0)
+    request_url = ex_create_request.API(0)
 
 #   リクエストの作成
 #   帰ってくる件数はデフォルト10件
