@@ -11,7 +11,7 @@ query = {
     "format": "json",
     "keyid": ex_accesskey.keyid,
     "freeword": word,
-    "hit_per_page": 1
+    "hit_per_page": 3
 }
 
 r = requests.get(ex_accesskey.url, params=query)
