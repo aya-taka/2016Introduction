@@ -18,4 +18,5 @@ r = requests.get(ex_accesskey.url, params=query)
 r = json.loads(json.dumps(r.json(), sort_keys=True, indent=2))
 
 print("r:{0}".format(r))
-print("r.json:{0}".format(r["rest"]["name"]))
+for data in r["rest"]:
+    print("r.json:{0}".format(data["name"]))
