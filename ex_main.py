@@ -14,20 +14,20 @@ word = input("検索キーワードをスペース区切りで入力してくだ
 #   文字種識別
 #   アルファベットかどうかのみ？
 if word.isalpha():
-    pass
+    request_url = ex_accesskey.URL(1)
 else:
-    pass
+    request_url = ex_accesskey.URL(0)
 
 #   リクエストの作成
 #   帰ってくる件数はデフォルト10件
 query = {
     "format": "json",
-    "keyid": ex_accesskey.keyid,
+    "keyid": request_url.key,
     "freeword": word,
 }
 #   requestsを使用して、指定URLにリクエストを送信
 #   rに帰ってきた情報を格納
-r = requests.get(ex_accesskey.url, params=query)
+r = requests.get(request_url.url, params=query)
 #   jsonを辞書型で読み込みなおす
 r = json.loads(json.dumps(r.json(), sort_keys=True, indent=2))
 
