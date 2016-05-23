@@ -11,12 +11,11 @@ query = {
     "format": "json",
     "keyid": ex_accesskey.keyid,
     "freeword": word,
-    "hit_per_page": 3
 }
 
 r = requests.get(ex_accesskey.url, params=query)
 r = json.loads(json.dumps(r.json(), sort_keys=True, indent=2))
 
-print("r:{0}".format(r))
+#   print("r:{0}".format(r))
 for data in r["rest"]:
-    print("r.json:{0}".format(data["name"]))
+    print("レストラン名:{0}".format(data["name"]))
