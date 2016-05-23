@@ -33,21 +33,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex_create_request.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ex_create_request.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ex_create_request.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-              <folding />
+            <state relative-caret-position="51">
+              <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex_main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ex_main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+            <state relative-caret-position="172">
+              <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
               <folding>
                 <element signature="e#24#34#0" expanded="true" />
               </folding>
@@ -55,10 +57,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="E01.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/E01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="25DiceIII.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/25DiceIII.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
+            <state relative-caret-position="0">
               <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
               <folding />
             </state>
@@ -103,7 +115,6 @@
         <option value="$PROJECT_DIR$/11FindingMissingCards.py" />
         <option value="$PROJECT_DIR$/12Howmanyways.py" />
         <option value="$PROJECT_DIR$/16SumofNumbers.py" />
-        <option value="$PROJECT_DIR$/E01.py" />
         <option value="$PROJECT_DIR$/15TogglingCases.py" />
         <option value="$PROJECT_DIR$/20Shuffle.py" />
         <option value="$PROJECT_DIR$/21Transformation.py" />
@@ -111,6 +122,7 @@
         <option value="$PROJECT_DIR$/25DiceIII.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/ex_accesskey.py" />
+        <option value="$PROJECT_DIR$/E01.py" />
         <option value="$PROJECT_DIR$/ex_create_request.py" />
         <option value="$PROJECT_DIR$/ex_main.py" />
       </list>
@@ -193,23 +205,6 @@
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0/cmd/git.exe" />
   </component>
   <component name="RunManager" selected="Python.ex_main">
-    <configuration default="false" name="16SumofNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="2016Introduction" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16SumofNumbers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="17CountingCharacters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,6 +269,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2016Introduction" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="E01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016Introduction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/E01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -413,19 +425,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.16SumofNumbers" />
-      <item index="1" class="java.lang.String" itemvalue="Python.17CountingCharacters" />
-      <item index="2" class="java.lang.String" itemvalue="Python.19FindingaWord" />
-      <item index="3" class="java.lang.String" itemvalue="Python.21Transformation" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ex_main" />
+      <item index="0" class="java.lang.String" itemvalue="Python.17CountingCharacters" />
+      <item index="1" class="java.lang.String" itemvalue="Python.19FindingaWord" />
+      <item index="2" class="java.lang.String" itemvalue="Python.21Transformation" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ex_main" />
+      <item index="4" class="java.lang.String" itemvalue="Python.E01" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.ex_main" />
-        <item index="1" class="java.lang.String" itemvalue="Python.21Transformation" />
-        <item index="2" class="java.lang.String" itemvalue="Python.19FindingaWord" />
-        <item index="3" class="java.lang.String" itemvalue="Python.17CountingCharacters" />
-        <item index="4" class="java.lang.String" itemvalue="Python.16SumofNumbers" />
+        <item index="1" class="java.lang.String" itemvalue="Python.E01" />
+        <item index="2" class="java.lang.String" itemvalue="Python.21Transformation" />
+        <item index="3" class="java.lang.String" itemvalue="Python.19FindingaWord" />
+        <item index="4" class="java.lang.String" itemvalue="Python.17CountingCharacters" />
       </list>
     </recent_temporary>
   </component>
@@ -691,13 +703,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/E01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/24DiceII.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-627">
@@ -796,14 +801,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/25DiceIII.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex_accesskey.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -812,20 +809,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex_create_request.py">
+    <entry file="file://$PROJECT_DIR$/25DiceIII.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        <state relative-caret-position="0">
+          <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        <state relative-caret-position="172">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
           <folding>
             <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex_create_request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>

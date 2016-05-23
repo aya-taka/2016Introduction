@@ -19,9 +19,11 @@ word = input("検索キーワードをスペース区切りで入力してくだ
 #   文字種識別
 #   アルファベットかどうかのみ？
 if word.isalpha():
-    request_url = ex_create_request.API(1)
+    request_url = ex_create_request.API(0)
+    #   print(1)
 else:
     request_url = ex_create_request.API(0)
+    #   print(0)
 
 #   リクエストの作成
 #   帰ってくる件数はデフォルト10件
@@ -30,14 +32,11 @@ query = {
     "keyid": request_url.key,
     "freeword": word,
 }
-#   requestsを使用して、指定URLにリクエストを送信
-#   rに帰ってきた情報を格納
-r = requests.get(request_url.url, params=query)
-#   jsonを辞書型で読み込みなおす
-r = json.loads(json.dumps(r.json(), sort_keys=True, indent=2))
+#   リクエストを送信し、json形式を取得
+request_url.get_json(query)
 
 #   print("r:{0}".format(r))
 #   出力
 #   rest以下の内容を対象にnameの中身を出力
-for data in r["rest"]:
-    print("レストラン名:{0}".format(data["name"]))
+for data in request_url.get_name():
+    print("レストラン名:{0}".format(data))
