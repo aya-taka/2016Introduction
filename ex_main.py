@@ -12,6 +12,7 @@ import ex_accesskey
 #   フリーワード検索に使用
 word = input().split()
 #   リクエストの作成
+#   帰ってくる件数はデフォルト10件
 query = {
     "format": "json",
     "keyid": ex_accesskey.keyid,
